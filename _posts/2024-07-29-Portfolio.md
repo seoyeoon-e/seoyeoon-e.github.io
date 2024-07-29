@@ -1,18 +1,29 @@
+---
+layout: post
+title:  "최서연 포트폴리오"
+---
+
+# Welcome
+
+**Hello world**, this is my first Jekyll blog post.
+
+I hope you like it!
+
 <!DOCTYPE html>
 <html lang="ko"><head>
   <meta charset="UTF-8">
-  <title>김지민 포트폴리오</title>
+  <title>최서연 포트폴리오</title>
 
   <meta name="Subject" content="포트폴리오">
-  <meta name="Title" content="김지민 포트폴리오">
+  <meta name="Title" content="최서연 포트폴리오">
   <meta name="Keywords" content="웹퍼블리셔,웹디자이너,포트폴리오">
   <meta name="Description" content="최적의 사용자 경험을 제공하는 것을 목표로 하는 웹 퍼블리셔">
-  <meta name="Author" content="김지민">
-  <meta name="Publisher" content="KimJimin">
+  <meta name="Author" content="최서연">
+  <meta name="Publisher" content="Choi Seoyeon">
   <meta name="Classification" content="포트폴리오">
   <meta name="Location" content="Seoul Korea">
-  <meta name="Author-Date" content="2019.10.24">
-  <meta name="Copyright" content="김지민">
+  <meta name="Author-Date" content="2024.07.29">
+  <meta name="Copyright" content="최서연">
 
   <link rel="shortcut icon" href="images/favicon.ico">
   <link rel="stylesheet" href="css/reset.css">
